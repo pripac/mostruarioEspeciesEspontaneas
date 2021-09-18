@@ -40,5 +40,10 @@ body {
   
   img {
     max-height: 250px;
+    border-width: 50cm;
+    border-color: green;
   }
   
+  p {
+      color:#ffffff
+  }
